@@ -2,6 +2,8 @@
 
 - vimの基本を理解する、udemy見る、記事作成、提出
 - udemy＋[Linucの問題集(Lv1-101)](https://mondai.ping-t.com/g/mypage)の最強WEB問題集を全問正解する
+- Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy
+-
 
 ## 次やること
 
