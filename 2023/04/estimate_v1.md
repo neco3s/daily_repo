@@ -1,3 +1,8 @@
+## udemyのセール待ちで飛ばしたやつ
+
+- vimの基本を理解する、udemy見る、記事作成、提出
+- udemy＋[Linucの問題集(Lv1-101)](https://mondai.ping-t.com/g/mypage)の最強WEB問題集を全問正解する
+
 ## 次やること
 
 - [Progate](https://prog-8.com/dashboard)
@@ -6,7 +11,8 @@
 - [寿司打](https://sushida.net/) 〜5000円コース〜をクリアしたスクショ提出
 - [エンジニアリングの基礎動画](https://www.youtube.com/watch?v=kZakG8UPZaY)　を見る
 - 『プロになるためのWeb技術入門』――なぜ，あなたはWebシステムを開発できないのかを読む、記事を作成、提出
-- インプット＋[Linucの問題集(Lv1-101)](https://mondai.ping-t.com/g/mypage)の最強WEB問題集を全問正解する
+- vimの基本を理解する、udemy見る、記事作成、提出
+- udemy＋[Linucの問題集(Lv1-101)](https://mondai.ping-t.com/g/mypage)の最強WEB問題集を全問正解する
 - インプット＋peco,ghqの設定
 - gitインプット+[Learn Git Branching](https://learngitbranching.js.org/?locale=ja)をすべて完了する
 - 課題提出用のレポジトリ作成
