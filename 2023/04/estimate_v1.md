@@ -24,7 +24,7 @@
 - 課題提出用のレポジトリ作成 1:tomato:
 - Pull Requestのテンプレートを作成するPR を作成 1:tomato:
 - github flowについて理解する 2:tomato:
-- 未経験からHTML、CSS をマスターして、WEBデザイナー・エンジニアを目指す　最高の実践コース | Udemyを見る、コードを書く 20:tomato:
+- 未経験からHTML、CSS をマスターして、WEBデザイナー・エンジニアを目指す 最高の実践コース | Udemyを見る、コードを書く 20:tomato:
 - Zenn.devの記事詳細ページを模写する、github pagesで公開、URL を提出 15:tomato:
 - ウェブ開発入門完全攻略コース - HTML/CSS/JavaScript. プログラミングをはじめて学び創れる人へ！ | Udemyを見る 30:tomato:
 - GitHub Pagesでサイトを公開してみよう 6:tomato:
@@ -32,7 +32,7 @@
 - 入門 Docker 20:tomato:
 - Railsプロジェクトのdocker化、記事作成、URL提出 12:tomato:
 - Rubyのプログラミング初心者向けの超入門講座 2:tomato:
-- プロを目指す人のためのRuby入門を読む、感想をブログに書く、URLを提出 21:tomato:
+- プロを目指す人のためのRuby入門を読む、感想をブログに書く、URLを提出(537p,13章,1章:tomato:×2,1p=1~2min) 21:tomato:
 - rubocopについて調べて適用する 1:tomato:
 - rubyグループ分け問題 3:tomato:
 - Rubyでカレンダーを作る 6:tomato:
