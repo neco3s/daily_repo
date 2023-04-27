@@ -52,6 +52,7 @@
 - テスト技法について学ぶ 10:tomato:
 - Everyday Rails - RSpecによるRailsテスト入門 21:tomato:
 - 自動テスト 15:tomato:
+- 米国AI開発者がゼロから教えるDocker講座(CI/CD) | Udemy 20:tomato:
 
 - JavaScript入門・完全版 6:tomato:
 - JavaScript Primer - 迷わないための入門書 #jsprimer 21:tomato:
