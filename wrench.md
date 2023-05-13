@@ -31,3 +31,19 @@
 - :wrench: tmux,新規ウィンドウ(ctrl+b c)
 - :wrench: tmux,次のウィンドウ(ctrl+b n)
 - :wrench: tmux,ウィンドウの名前を変える(ctrl+b ,)
+
+
+- :wrench: debug, 1 gem 'debug', 2 require 'debug',3 binding.break
+```ruby
+# 次の処理ステップイン (s + Enter)
+
+# 次の処理ステップオーバー (n + Enter)
+
+# ステップアウト (fin + Enter)
+
+# p, pp
+
+# ヘルプ (h + Enter)
+
+# デバッグ終了(q + y + Enter)
+```
