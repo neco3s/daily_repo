@@ -33,17 +33,24 @@
 - :wrench: tmux,ウィンドウの名前を変える(ctrl+b ,)
 
 
-- :wrench: debug, 1 gem 'debug', 2 require 'debug',3 binding.break
+- :wrench: debug, 1 gem 'binding.pry', gem 'pry-doc', 2 binding.pry(ブレイクポイント)
 ```ruby
-# 次の処理ステップイン (s + Enter)
+# https://pikawaka.com/rails/pry
 
-# 次の処理ステップオーバー (n + Enter)
+# https://zenn.dev/offers/articles/20220602-binding-pry-debug-tips
 
-# ステップアウト (fin + Enter)
+# exit => 終了
 
-# p, pp
+# show-routes => 現在のルーティングを確認
+# show-routes --grep user => userを含むroutesを表示
 
-# ヘルプ (h + Enter)
+# show-models => 現在のモデルを確認
+# show-model User => Userモデルを確認
 
-# デバッグ終了(q + y + Enter)
+# show-source => クラスやモジュール、メソッドの定義を確認
+
+# show-doc => クラスやモジュール、メソッドのドキュメントを確認
+
+# @ => binding.pryを埋め込んだ位置の確認
+
 ```
